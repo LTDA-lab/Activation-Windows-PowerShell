@@ -1,4 +1,3 @@
-# activate-windows-by-powershell-Administrator-
 
 
 
