@@ -7,7 +7,8 @@ Copy the three commands one by one into a PowerShell (Administrator) console. (Y
 e.g.  for Windows 10 Pro  =>  slmgr /ipk  VK7JG-NPHTM-C97JM-9MPGT-3V66T
 
 Note: The keys you need to copy are the ones in the "KMS Client Setup Key" box.
-![430701944-c81a68d7-83d8-4b61-ad1f-1b9d371352a2](https://github.com/user-attachments/assets/2d8a72f0-efb2-4b3d-962b-b9827e7286eb)
+![e g](https://github.com/user-attachments/assets/bc846e65-4b7e-4e42-9fa3-b316b0a26292)
+
 
 
 
