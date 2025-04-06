@@ -1,6 +1,6 @@
 # activate-windows-by-powershell-Administrator-
 
-another method for other versions
+
 .
 .
 Copy the three commands one by one into a PowerShell (Administrator) console. (You must edit the first command and replace "your key here" with the key corresponding to your version of Windows.) 
