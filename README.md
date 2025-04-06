@@ -1,4 +1,6 @@
+## A **activation windows powershell Administrator**
 
+![unnamed1](https://github.com/user-attachments/assets/fb888c6c-bc4c-4a09-ace1-b0fca9a09f94)
 
 
 Copy the three commands one by one into a PowerShell (Administrator) console. (You must edit the first command and replace "your key here" with the key corresponding to your version of Windows.) 
@@ -22,4 +24,5 @@ Windows keys
 https://drive.google.com/file/d/1NETKv5dtfq195lkklh3Xukjxp1C-HXd2/view
 
 
-![68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67](https://github.com/user-attachments/assets/c7f2a250-f063-4895-b930-ed1c9aa875b5)
+
+
