@@ -29,6 +29,7 @@ slmgr /ato
 Windows keys: 
 https://drive.google.com/file/d/1NETKv5dtfq195lkklh3Xukjxp1C-HXd2/view
 
+.
+.
 
-
-
+Download the official versions of Windows and Linux here: https://os.click/en
