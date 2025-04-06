@@ -8,7 +8,7 @@ Note: The keys you need to copy are the ones in the "KMS Client Setup Key" box.
 
 
 ```c++
-slmgr /ipk  your key here
+slmgr /ipk  "your key here"
 ```
 ```c++
 slmgr /skms kms8.msguides.com
