@@ -1,4 +1,4 @@
-##  **Activation windows powershell Administrator**
+##  **Activation windows powershell (Administrator)**
 
 ![unnamed1](https://github.com/user-attachments/assets/fb888c6c-bc4c-4a09-ace1-b0fca9a09f94)
 
