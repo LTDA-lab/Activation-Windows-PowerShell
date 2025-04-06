@@ -16,4 +16,4 @@ slmgr /ato
 ```
 
 Windows keys
-https://drive.google.com/file/d/1NETKv5dtfq195lkklh3Xukjxp1C-HXd2/view?
+https://drive.google.com/file/d/1NETKv5dtfq195lkklh3Xukjxp1C-HXd2/view
