@@ -31,4 +31,4 @@ https://drive.google.com/file/d/1NETKv5dtfq195lkklh3Xukjxp1C-HXd2/view
 If any command gives you an error, run it again.
 
 
-Download the official versions of Windows and Linux here: https://os.click/en
+Download the official versions of Windows Server here:
