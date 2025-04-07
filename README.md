@@ -30,5 +30,9 @@ Windows keys:
 https://drive.google.com/file/d/1NETKv5dtfq195lkklh3Xukjxp1C-HXd2/view                                                                                                                                                        
 If any command gives you an error, run it again.
 
+Download the official versions of Windows here: https://www.microsoft.com/es-es/software-download                                                                                       
 
-Download the official versions of Windows Server here:
+Download the official versions of Windows Server here: https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2025
+                                          
+Download other versions of Windows here: https://os.click/en
+
