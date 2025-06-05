@@ -33,15 +33,15 @@ _
 _                                                                                                 
 
 
-Download the official versions of Windows here: https://www.microsoft.com/es-es/software-download                                                                                       
+Download the official versions of Windows: https://www.microsoft.com/es-es/software-download                                                                                       
 
-Download the official versions of Windows Server (2025) here: https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2025
+Download the official versions of Windows Server (2025): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2025
 
-Download the official versions of Windows Server (2022) here: https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2022
+Download the official versions of Windows Server (2022): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2022
 
-Download the official versions of Windows Server (2019) here: https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2019
+Download the official versions of Windows Server (2019): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2019
 
-Download the official versions of Windows Server (2016) here: https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2016
+Download the official versions of Windows Server (2016): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2016
 
                                           
 Download other versions of Windows here: https://os.click/en
