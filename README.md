@@ -44,5 +44,5 @@ Download the official versions of Windows Server (2019): https://www.microsoft.c
 Download the official versions of Windows Server (2016): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2016
 
                                           
-Download other versions of Windows here: https://os.click/en
+Download other versions of Windows: https://os.click/en
 
