@@ -46,3 +46,4 @@ Download the official versions of Windows Server (2016): https://www.microsoft.c
                                           
 Download other versions of Windows: https://os.click/en
 
+install Windows on a pendrive: https://rufus.ie/es/
