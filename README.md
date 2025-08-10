@@ -26,24 +26,25 @@ slmgr /skms kms8.msguides.com
 slmgr /ato
 ```
 
-Windows keys: 
-https://drive.google.com/file/d/1aM7cFonGmtos2RSNWudJH838wkwNzNfG/view                                                                                                                                                     
-If any command gives you an error, run it again.  
-_                                                                                                                   
-_                                                                                                 
 
 
-Download the official versions of Windows: https://www.microsoft.com/es-es/software-download                                                                                       
+Windows keys: [Download](https://drive.google.com/file/d/1aM7cFonGmtos2RSNWudJH838wkwNzNfG/view)
 
-Download the official versions of Windows Server (2025): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2025
+If any command gives you an error, run it again.
 
-Download the official versions of Windows Server (2022): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2022
+---
 
-Download the official versions of Windows Server (2019): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2019
+[Download](https://www.microsoft.com/es-es/software-download) the official versions of Windows.
 
-Download the official versions of Windows Server (2016): https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2016
+[Download](https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2025) the official versions of Windows Server (2025).
 
-                                          
-Download other versions of Windows: https://os.click/en
+[Download](https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2022) the official versions of Windows Server (2022).
+
+[Download](https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2019) the official versions of Windows Server (2019).
+
+[Download](https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2016) the official versions of Windows Server (2016).
+
+[Download](https://os.click/en) other versions of Windows.
+
 
 install Windows on a pendrive: https://rufus.ie/es/
