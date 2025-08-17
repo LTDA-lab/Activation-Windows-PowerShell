@@ -28,7 +28,7 @@ slmgr /ato
 
 
 
-Windows keys: [Download](https://drive.google.com/file/d/1aM7cFonGmtos2RSNWudJH838wkwNzNfG/view)
+Windows keys: [Here](https://drive.google.com/file/d/1aM7cFonGmtos2RSNWudJH838wkwNzNfG/view)
 
 If any command gives you an error, run it again.
 
